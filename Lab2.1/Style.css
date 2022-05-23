@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    color:white;
+    font-size: 45px;
+}
+ul{
+    color: black; 
+}
+body{
+    padding-left: 10px;
+    background-color:darkgrey;
+}
+h2{
+    text-shadow: 0px 2px 1px whitesmoke;
+    font-size: 40px;
+    color:black;
+}
+p{
+    font-size: 20px;
+}
+table{
+    background-color: whitesmoke;
+}
+thead{
+    background-color: #ccc;
+}
+.photo{
+    border-radius: 50%;
+}
+.list{
+    font-size: 25px;
+}
+.text{
+    padding-left: 400px;
+}
